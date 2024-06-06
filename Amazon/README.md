@@ -35,4 +35,7 @@ This project involves creating an interactive and comprehensive dashboard using 
 ## Acknowledgements
 - Thanks to Prime Video for providing the data used in this analysis.
 - Power BI for the robust data visualization and analysis platform.
+  
+## Dashboard 
+![image](https://github.com/Rakesh-Seenu/PowerBI_Projects/assets/126412041/66940766-11a8-443c-a702-9bc437547541)
 
