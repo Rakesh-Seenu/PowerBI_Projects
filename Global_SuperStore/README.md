@@ -33,5 +33,8 @@ This project involves creating an interactive and comprehensive dashboard using 
 - Interact with the visuals by applying filters, drilling down into specific data points, and exploring different charts to gain insights.
 - Use the insights to make informed decisions about sales strategies and operational improvements.
 
+## Dashboad:
+![image](https://github.com/Rakesh-Seenu/PowerBI_Projects/assets/126412041/8a0d8328-8f3e-465e-b9b2-0e90e05bf12e)
+
 
 
